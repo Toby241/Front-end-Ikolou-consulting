@@ -2,8 +2,7 @@
 
 Bienvenue dans le dépôt du code source **Frontend** de la plateforme Ikolou Consulting. Ce projet présente une interface utilisateur ultra-moderne, fluide et interactive, conçue pour les cabinets de conseil et la transformation digitale.
 
-![Ikolou Preview](https://via.placeholder.com/1000x500?text=Aperçu+Ikolou+Consulting)
-*(Remplacez ce lien par une capture d'écran de votre site)*
+![Ikolou Preview](https://ikolou-consuting.netlify.app/)
 
 ## 🚀 À propos du projet
 
@@ -54,7 +53,7 @@ La version complète ("Full Stack"), prête pour la production en entreprise, es
 
 Pour obtenir la **version complète**, discuter d'une intégration sur mesure ou pour toute opportunité de développement :
 
-**Emmanuel Bongotha** 📧 Email : **emmanuel.bongotha@bugware.com** 💻 Développeur Full Stack & UI/UX Designer
+**Emmanuel Bongotha** 📧 Email : **emmanuel.bongotha@bugware.com** 💻 Etudiant Full Stack python & UI/UX Designer
 
 ---
 
